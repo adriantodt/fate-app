@@ -1,0 +1,13 @@
+p.label {
+    margin-bottom: .5rem;
+}
+
+img.avatar {
+    max-width: 250px;
+    max-height: 150px;
+}
+
+img.large-avatar {
+    max-width: 300px;
+    max-height: 200px;
+}
